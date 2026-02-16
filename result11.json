@@ -3,7 +3,7 @@
     "exam_name": "Test",
     "students": [
         {
-            "name_of_student": "ISRAT JAHAN JUI",
+            "name_of_student": "ISRAT JAHAN",
             "student_id": "2672624",
             "total_marks": 268,
             "result_status": "Failed",
