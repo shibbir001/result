@@ -1,6 +1,6 @@
 {
-    "class": 12,
-    "exam_name": "Test",
+    "class": 11,
+    "exam_name": "1st term",
     "students": [
         {
             "name_of_student": "ISRAT JAHAN JUI",
@@ -76,7 +76,7 @@
         },
         {
             "name_of_student": "ROBAYET AMIN RAMISHA",
-            "student_id": "2672824",
+            "student_id": "12345",
             "total_marks": 443,
             "result_status": "Passed",
             "subjects": [
@@ -112,7 +112,7 @@
         },
         {
             "name_of_student": "RAFIA RAHAT ORPA",
-            "student_id": "2672924",
+            "student_id": "1234567",
             "total_marks": 313,
             "result_status": "Passed",
             "subjects": [
