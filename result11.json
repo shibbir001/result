@@ -13874,7 +13874,7 @@
       "name_of_student": "MST FARZANA AKTHER HAFSA",
       "student_id": "217439",
       "total_marks": 404,
-      "result_status": "Failed",
+      "result_status": "Passed",
       "subjects": [
         {
           "subject_title": "Bangla 1st",
@@ -13886,7 +13886,7 @@
         },
         {
           "subject_title": "ICT",
-          "total_obtained_marks": 26
+          "total_obtained_marks": 53
         },
         {
           "subject_title": "Islamic History 1st",
